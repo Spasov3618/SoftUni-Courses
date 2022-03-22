@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\bin\Debug\net5.0\02. Mirror Words1.exe
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\bin\Debug\net5.0\02. Mirror Words1.deps.json
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\bin\Debug\net5.0\02. Mirror Words1.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\bin\Debug\net5.0\02. Mirror Words1.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\bin\Debug\net5.0\02. Mirror Words1.dll
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\bin\Debug\net5.0\02. Mirror Words1.pdb
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.dll
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\refint\02. Mirror Words1.dll
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.pdb
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\02. Mirror Words1.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\test Exam 03Problem\02. Mirror Words1\obj\Debug\net5.0\ref\02. Mirror Words1.dll
